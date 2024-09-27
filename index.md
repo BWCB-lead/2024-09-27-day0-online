@@ -430,6 +430,26 @@ please preview your site before committing, and make sure to run
 </p>
 
 {% comment %}
+Section I added to insert data download links into the webpage
+{% endcomment %}
+
+<h2 id="data-files">Data Files</h2>
+
+<p>
+  Below are the data files you will need for the workshop:
+</p>
+<ul>
+  <li><a href="data/Acia1_CDS.fasta">Download Acia1_CDS.fasta</a></li>
+  <li><a href="data/DMgenes.txt">Download DMgenes.txt</a></li>
+  <li><a href="data/NB_CDS.fasta">Download NB_CDS.fasta</a></li>
+  <li><a href="data/Pirfi3_kog_exprs.csv">Download Pirfi3_kog_exprs.csv</a></li>
+  <li><a href="data/S.cerevisiae.gtf">Download S.cerevisiae.gtf</a></li>
+  <li><a href="data/gene1.txt">Download gene1.txt</a></li>
+  <li><a href="data/nums.txt">Download nums.txt</a></li>
+  <li><a href="data/small_rna_seq.fastq.gz">Download small_rna_seq.fastq.gz</a></li>
+</ul>
+
+{% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
 - recommendations for setting up Learners' workspace so they can follow along
