@@ -405,14 +405,14 @@ Section I added to insert data download links into the webpage
   Below are the download links for the data files you will need for the workshop:
 </p>
 <ul>
-  <li><a href="data/Acia1_CDS.fasta" download>Acia1_CDS.fasta</a></li>
-  <li><a href="data/DMgenes.txt" download>DMgenes.txt</a></li>
-  <li><a href="data/NB_CDS.fasta" download>NB_CDS.fasta</a></li>
-  <li><a href="data/Pirfi3_kog_exprs.csv" download>Pirfi3_kog_exprs.csv</a></li>
-  <li><a href="data/S.cerevisiae.gtf" download>S.cerevisiae.gtf</a></li>
-  <li><a href="data/gene1.txt" download>gene1.txt</a></li>
-  <li><a href="data/nums.txt" download>nums.txt</a></li>
-  <li><a href="data/small_rna_seq.fastq.gz" download>small_rna_seq.fastq.gz</a></li>
+  <li><a href="data/Acia1_CDS.fasta">Acia1_CDS.fasta</a></li>
+  <li><a href="data/DMgenes.txt">DMgenes.txt</a></li>
+  <li><a href="data/NB_CDS.fasta">NB_CDS.fasta</a></li>
+  <li><a href="data/Pirfi3_kog_exprs.csv">Pirfi3_kog_exprs.csv</a></li>
+  <li><a href="data/S.cerevisiae.gtf">S.cerevisiae.gtf</a></li>
+  <li><a href="data/gene1.txt">gene1.txt</a></li>
+  <li><a href="data/nums.txt">nums.txt</a></li>
+  <li><a href="data/small_rna_seq.fastq.gz">small_rna_seq.fastq.gz</a></li>
 </ul>
 
 {% comment %}
