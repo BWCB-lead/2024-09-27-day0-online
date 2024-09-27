@@ -405,6 +405,7 @@ Section I added to insert data download links into the webpage
   Below are the download links for the data files you will need for the workshop:
 </p>
 <ul>
+  <li><a href="data/data_files.zip">data_files.zip</a></li>
   <li><a href="data/Acia1_CDS.fasta">Acia1_CDS.fasta</a></li>
   <li><a href="data/DMgenes.txt">DMgenes.txt</a></li>
   <li><a href="data/NB_CDS.fasta">NB_CDS.fasta</a></li>
